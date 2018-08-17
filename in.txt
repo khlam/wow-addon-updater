@@ -11,3 +11,6 @@ https://www.curseforge.com/wow/addons/gse-gnome-sequencer-enhanced-advanced-macr
 https://www.curseforge.com/wow/addons/garrison-mission-manager
 https://www.curseforge.com/wow/addons/bartender4
 https://www.curseforge.com/wow/addons/simulationcraft
+https://www.curseforge.com/wow/addons/quartz
+https://www.curseforge.com/wow/addons/maxcam
+https://www.curseforge.com/wow/addons/weakauras-2
