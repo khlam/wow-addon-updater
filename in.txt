@@ -1,7 +1,6 @@
 https://www.curseforge.com/wow/addons/deadly-boss-mods
 https://www.curseforge.com/wow/addons/Skada
 https://www.curseforge.com/wow/addons/bagnon
-https://www.curseforge.com/wow/addons/omni-cc
 https://www.curseforge.com/wow/addons/autolooter
 https://www.curseforge.com/wow/addons/shadowed-unit-frames
 https://www.curseforge.com/wow/addons/kuinameplates
@@ -13,4 +12,7 @@ https://www.curseforge.com/wow/addons/bartender4
 https://www.curseforge.com/wow/addons/simulationcraft
 https://www.curseforge.com/wow/addons/quartz
 https://www.curseforge.com/wow/addons/maxcam
-https://www.curseforge.com/wow/addons/weakauras-2
+https://www.curseforge.com/wow/addons/announce-interrupts
+https://www.curseforge.com/wow/addons/pawn
+https://www.curseforge.com/wow/addons/auctionator
+https://www.curseforge.com/wow/addons/world-quests-list
